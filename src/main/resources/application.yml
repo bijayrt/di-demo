@@ -3,3 +3,11 @@ guru:
     username: JMS Username from yml
     password: JMS Password from yml
     url: new url read from yml
+---
+# three dashes is a file separator
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: JMS Username in German
