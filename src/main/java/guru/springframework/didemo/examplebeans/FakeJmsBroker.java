@@ -1,8 +1,7 @@
 package guru.springframework.didemo.examplebeans;
-
 /* BTuladhar created on 1/25/2020 */
 
-public class FakeDataSource {
+public class FakeJmsBroker {
     private String username;
     private String password;
     private String url;
