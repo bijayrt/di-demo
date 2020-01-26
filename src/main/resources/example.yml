@@ -1,0 +1,34 @@
+#this is a comment
+name: Bijay
+
+names:
+  - John
+  - Bijay
+  - Ringo
+
+pound_sign: "#"
+book:
+  author: Joe Buck
+  publisher: Random House
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALS
+
+string_val: This is it''s quote
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  asdf asdsd dsds
+  sdsdsds dfsdsd
+  sdssd sd dsds
+
+ignore_new_lines: >
+  this is
+  just one long
+  string

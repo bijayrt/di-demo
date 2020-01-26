@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username: JMS Username from yml
+    password: JMS Password from yml
+    url: new url read from yml
